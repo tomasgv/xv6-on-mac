@@ -1,7 +1,7 @@
 # xv6-on-Mac
 Tutorial on how to compile XV6 on a Mac using [Lima](https://github.com/lima-vm/lima). Quick setup, launch and debug using gdb-multiarch. Yes, you can use it with ARM processors.
 
-Specially made for the Operative Systems course taught at CentraleSupélec.
+Specially made for the Operating Systems course taught at CentraleSupélec.
 
 
 ## Setup
